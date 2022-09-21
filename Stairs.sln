@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stairs", "Stairs\Stairs.csproj", "{EC90FAB2-45E6-47D4-9F87-DF81A8308D89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC90FAB2-45E6-47D4-9F87-DF81A8308D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC90FAB2-45E6-47D4-9F87-DF81A8308D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC90FAB2-45E6-47D4-9F87-DF81A8308D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC90FAB2-45E6-47D4-9F87-DF81A8308D89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53B07505-861B-4B38-A174-4C0153BF35D5}
+	EndGlobalSection
+EndGlobal
